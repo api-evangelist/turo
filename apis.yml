@@ -1,0 +1,79 @@
+aid: turo
+name: Turo
+description: >-
+  Turo is a San Francisco-headquartered peer-to-peer car sharing marketplace
+  operating in the United States, Canada, the United Kingdom, France, and
+  Australia. The platform lets vehicle owners (hosts) list their cars for
+  rent and lets travelers (guests) book those vehicles directly through the
+  Turo app or website, with Turo handling identity verification, insurance,
+  protection plans, payments, and trust and safety on top of the host's
+  inventory. The marketplace covers economy cars, SUVs, trucks, vans, exotic
+  and classic vehicles, and EVs across more than 14,000 cities, and offers
+  contactless Turo Go vehicles where supported. Turo's revenue model is a
+  marketplace take-rate against each trip plus protection plan and ancillary
+  fees, supported by an integrated host operations stack (calendar, pricing,
+  messaging, and earnings) and a guest mobile and web booking experience.
+  Turo does not currently expose a public developer API, SDK, or partner
+  developer portal. The only third-party-facing surface was a now-deprecated
+  ChatGPT plugin (chatgpt.turo.com) launched in 2023 and sunset alongside
+  OpenAI's plugins program in 2024. Integrations with connected-car platforms
+  such as Smartcar are negotiated directly rather than through self-serve
+  developer onboarding, and Turo's public GitHub presence
+  (github.com/turo, github.com/open-turo) is limited to internal engineering
+  tooling, GitHub Actions, ESLint configs, and language-specific libraries
+  rather than a public marketplace API.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Car Sharing
+  - Peer To Peer
+  - Marketplace
+  - Mobility
+  - Travel
+  - Transportation
+  - Car Rental
+  - Connected Car
+  - Automotive
+  - Hosts
+  - Trips
+url: https://raw.githubusercontent.com/api-evangelist/turo/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://turo.com
+  - type: HostTools
+    url: https://turo.com/us/en/host-tools
+  - type: HelpCenter
+    url: https://help.turo.com
+  - type: Blog
+    url: https://turo.com/blog
+  - type: Partnerships
+    url: https://turo.com/blog/tag/partnerships/
+  - type: PrivacyPolicy
+    url: https://turo.com/us/en/policies/privacy
+  - type: Careers
+    url: https://turo.com/us/en/careers
+  - type: AboutUs
+    url: https://turo.com/us/en/about
+  - type: Press
+    url: https://press.turo.com
+  - type: GitHub
+    url: https://github.com/turo
+  - type: GitHubOpenSource
+    url: https://github.com/open-turo
+  - type: Twitter
+    url: https://twitter.com/turo
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/turo
+  - type: AppStore
+    url: https://apps.apple.com/us/app/turo-better-than-car-rental/id458315326
+  - type: PlayStore
+    url: https://play.google.com/store/apps/details?id=com.relayrides.android.relayrides
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
