@@ -39,6 +39,18 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/turo.png
 tags:
   - Car Sharing
+  - Peer-to-Peer
+  - Marketplace
+  - Mobility
+  - Travel
+  - Transportation
+  - Car Rental
+  - Connected Car
+  - Automotive
+  - Hosts
+  - Trips
+tags_raw:
+  - Car Sharing
   - Peer To Peer
   - Marketplace
   - Mobility
