@@ -5,7 +5,7 @@
       "source": "https://turo.com/blog/feed/",
       "feed_url": "https://turo.com/blog/feed/",
       "title": "",
-      "saved": 4,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -13,10 +13,9 @@
       "feed_url": "https://help.turo.com",
       "title": "",
       "saved": 0,
-      "method": "none",
-      "error": "parse_failed"
+      "method": "none"
     }
   ],
-  "post_count": 46,
-  "fetched": "2026-08-15T12:11:08Z"
+  "post_count": 50,
+  "fetched": "2026-08-22T20:20:02Z"
 }
