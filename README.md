@@ -1,4 +1,4 @@
-# turo
+# Turo
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Turo — peer-to-peer car sharing marketplace (US, CA, UK, FR, AU). No public developer API.
+Turo is a San Francisco-headquartered peer-to-peer car sharing marketplace operating in the United States, Canada, the United Kingdom, France, and Australia. The platform lets vehicle owners (hosts) list their cars for rent and lets travelers (guests) book those vehicles directly through the Turo app or website, with Turo handling identity verification, insurance, protection plans, payments, and trust and safety on top of the host's inventory. The marketplace covers economy cars, SUVs, trucks, vans, exotic and classic vehicles, and EVs across more than 14,000 cities, and offers contactless Turo Go vehicles where supported. Turo's revenue model is a marketplace take-rate against each trip plus protection plan and ancillary fees, supported by an integrated host operations stack (calendar, pricing, messaging, and earnings) and a guest mobile and web booking experience. Turo does not currently expose a public developer API, SDK, or partner developer portal. The only third-party-facing surface was a now-deprecated ChatGPT plugin (chatgpt.turo.com) launched in 2023 and sunset alongside OpenAI's plugins program in 2024. Integrations with connected-car platforms such as Smartcar are negotiated directly rather than through self-serve developer onboarding, and Turo's public GitHub presence (github.com/turo, github.com/open-turo) is limited to internal engineering tooling, GitHub Actions, ESLint configs, and language-specific libraries rather than a public marketplace API.
+
+**Areas:** Car Sharing · Peer-to-Peer · Marketplace · Mobility · Travel · Transportation · Car Rental · Connected Vehicles · Automotive · Hosts · Trips
+
+## Turo on APIs.io
+
+Everything profiled for Turo is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/turo/](https://apis.io/providers/turo/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Turo Domain Security](https://apis.io/security/turo/turo-domain-security/)
+- [Turo Vulnerability Disclosure](https://apis.io/security/turo/turo-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://turo.com)
+- [Blog](https://turo.com/blog)
+- [Privacy policy](https://turo.com/us/en/policies/privacy)
+
+## API Evangelist rating
+
+**Kin Score 9.2** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 15.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/turo/](https://apis.io/providers/turo/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Turo: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/turo/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
